@@ -1,0 +1,6 @@
+D:\Mira\TelerikAcademy\QPC\Homeworks\NamingIdentifiers\4. Mines\bin\Debug\_4.Mines.exe.config
+D:\Mira\TelerikAcademy\QPC\Homeworks\NamingIdentifiers\4. Mines\bin\Debug\_4.Mines.exe
+D:\Mira\TelerikAcademy\QPC\Homeworks\NamingIdentifiers\4. Mines\bin\Debug\_4.Mines.pdb
+D:\Mira\TelerikAcademy\QPC\Homeworks\NamingIdentifiers\4. Mines\obj\Debug\4. Mines.csprojResolveAssemblyReference.cache
+D:\Mira\TelerikAcademy\QPC\Homeworks\NamingIdentifiers\4. Mines\obj\Debug\_4.Mines.exe
+D:\Mira\TelerikAcademy\QPC\Homeworks\NamingIdentifiers\4. Mines\obj\Debug\_4.Mines.pdb

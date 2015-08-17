@@ -1,0 +1,12 @@
+﻿{
+  "output": "Warning",
+  "ignore": [],
+  "options": {
+    "predef": {},
+    "eqeq": true,
+    "sloppy": true
+  },
+  "runOnSave": false,
+  "runOnBuild": false,
+  "cancelBuild": false
+}
